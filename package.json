@@ -1,0 +1,19 @@
+{
+  "name": "gdmproject",
+  "version": "1.0.0",
+  "description": "This is the exersice folder of node and react",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GedeonMatabaro/Node_React.git"
+  },
+  "author": "Gedeon Matabaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GedeonMatabaro/Node_React/issues"
+  },
+  "homepage": "https://github.com/GedeonMatabaro/Node_React#readme"
+}
